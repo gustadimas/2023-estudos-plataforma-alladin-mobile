@@ -1,0 +1,2181 @@
+fileFormatVersion: 2
+guid: 134a69bab868b8e42973c8f29077c01c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 610
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24095aa140e03144388645e8f48a1269
+      internalID: 1592381518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 612
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d14dd8035d8df40ab3e10bae073000
+      internalID: -822623585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 612
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24deb550995eff44a990ffff6f07df1c
+      internalID: 601300399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 612
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f85ae67f647b34b9b958c079fc02ea
+      internalID: 1836423461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 611
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ab31f9a278ddc4e84a9c2c1cee46b6
+      internalID: 980707934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 630
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5fd8a1648004f4796c4e4b35120a6c
+      internalID: 593044214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 611
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c0a489a3b15f4c8894e8269bed968
+      internalID: 1115472262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 611
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b62a2d466a3e4b9bd7db7df22837a
+      internalID: 1015023882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 611
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e77e8f735242c449dc7415c8a0da4b
+      internalID: 1279108615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 611
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d5ed9ff0529a14f8f61af31b5345ab
+      internalID: -7173762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 611
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03593de36d83d414fb27c3abea8fd6f7
+      internalID: -1881141581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 558
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4756e661e08ce84c81869c40305d0ec
+      internalID: 868657314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 558
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c897dab9538f16448be5b669aa47ab0
+      internalID: 1194557481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 557
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a484d2ce4aea54dbb468674d9a1d77
+      internalID: -1834293579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 556
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd977c297fc22d64485a4dc46e9c364b
+      internalID: 2123576762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 558
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964025920d9fe54f8a549e7937a6df2
+      internalID: -691459233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 559
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f2346a8a7b1ce4d929039e31600b22
+      internalID: -581054914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 558
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ebd6f31de6cd469cf10f93fdfc4b1
+      internalID: -331884205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 558
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb1019ca72e004ea544cfcdf503050
+      internalID: -352837931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 558
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba756f8ee1a8845b0d09a0b0ce9c05
+      internalID: 757702559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 558
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e66a6012a65ceb46a7292a031591759
+      internalID: -1277153953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 558
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94fc016bef0393449e9db85d7294aa8
+      internalID: -876152735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 558
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e844407e03dd3d488d6932d378e66d4
+      internalID: 197112253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 504
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f33e124cbbf7142bcf6c4001a44a62
+      internalID: 1559514401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 459
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef9cbd8fd92934e96fd6184d0f84c3
+      internalID: 557618223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 460
+        width: 36
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c688544cee05a4abcf5d95c6e79748
+      internalID: -91424350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 504
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a9e72f55455f4c9a6680504e97cbe
+      internalID: -1809563447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 460
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eea9282fcfa3349879ce35de0209d1
+      internalID: 2081101133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 461
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd60859a0a1fc445bb950925d7f6912
+      internalID: 640089643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 461
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22737fe997f17c840a51bbce61063be7
+      internalID: 1073640333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 462
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a765bbf70acfb941af1f6c647fe649c
+      internalID: -1708711469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 462
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b232cb900e6174bbbdce6b56329969
+      internalID: -122094143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 462
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6cefe365da20a43bb02108f1765b10
+      internalID: -1121296764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 461
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad45320f8abc6d48b625eb56f50c9dc
+      internalID: 1542529027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 462
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e31eb6e71e0964890b3a5fdfa5d137
+      internalID: 178006936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 458
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78dfcd08ba0ad6428e152ab4c14b5eb
+      internalID: -103104720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 409
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e5b322a6b351144a2996641bb4827c
+      internalID: 1960124039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 410
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2884a1a1e7d5d640b2b7f273f13bf7b
+      internalID: -755664308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 409
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedaf06e5a8501f4ab3a1e302e059b47
+      internalID: -1592536789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 409
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184d6a5472f817649bdc5f17c11ae1dd
+      internalID: -1167331261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f4cbad4602a44388331c5a7355c12
+      internalID: 244095888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 341
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e8228e428a3bf41915c0daef7d794c
+      internalID: -203194159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 340
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d984a9f77c2a448066d4e6245b14c
+      internalID: 613042190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 347
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07c5013f2bc7d46adc75aa9a8b6513
+      internalID: -782030690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 348
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda37a438423384aab9f4fa38b1d45f
+      internalID: -1256747988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 347
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b3153abb0a9548857562d645aee44
+      internalID: -291236541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 347
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4118bdf2f0730d4bbfcf673b28a6088
+      internalID: -1064178460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 345
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9a258e4ef1444caed3bac876f16f4
+      internalID: 1175953166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 341
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed913fd769b35f0419ee8d8198e5162d
+      internalID: 1374099716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 281
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168c311f6c47a734e8eb713c4c5b51ad
+      internalID: 1284726633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 279
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a116a95dc626c6d4d92137b64e8be812
+      internalID: 1760722459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 259
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9497d86a867c80429e3631d2db87c1a
+      internalID: 649534948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 259
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73379a7f64e7549a9ac03a7fb6e297
+      internalID: -19018589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 288
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c9eb943b31444cabcc3d6a4b49e42
+      internalID: 628700571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137fc0b9a9574e4fa8d3511ecf0dbb1
+      internalID: 1916111699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee99bd79926604f9c7f30bfcbd629a
+      internalID: 495779511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 195
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e1a61835eae54696a4321e656c236
+      internalID: 1657266804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db161264be6478f4cb628fcdfd57af10
+      internalID: 521733025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 192
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf3645fa17d158458c1576ced74c21b
+      internalID: 1961121364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 194
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66d99677ec8af4eb4334d7202e8a93
+      internalID: -916740457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 188
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b66cb819017a4f8c9f89512a04e04
+      internalID: 1013585165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa546e0bfac6707409c9e3a10b1cfa66
+      internalID: -1820622356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 157
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba16574f7b0f6d14788798a72b97cbed
+      internalID: -821897471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103dcb1c3b8abac40825d024abc30cdd
+      internalID: 1070680020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 155
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ffc30d8da14c84f9a05609d946b5d8
+      internalID: -267393740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 151
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779ecdb6dfc31447887649fc198f4cb
+      internalID: -932983242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 131
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8de549f0c34874297925dbe1fbd7e0
+      internalID: -90839914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 118
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5f86fe232811468ff6e94851fcd93
+      internalID: 1800706706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6997e84b08c544817a1173e1b04ff
+      internalID: 2052310814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 151
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508a014c7795ea4ca95d78e0b0d780b
+      internalID: 103519520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 122
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d7bc95bc33ea141bcd68ce63f0ec02
+      internalID: 64876470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 121
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0110e65226c4c74d84a59752a920637
+      internalID: -1635771413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 118
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004fd840dcff7a04cb1f9802d5394c1c
+      internalID: 1545674636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 75
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0840ced401d56424dadd4195ba1023a7
+      internalID: 698442482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 77
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d700d4a8fab7c40ba89402dafff968
+      internalID: -705743479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22353ce6550f46947a9c8e362efcf65c
+      internalID: 154300886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d510acf61d99d49bac6a4966fb0a53
+      internalID: 914857696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 70
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb57c054c8d9147859407c44adeb26
+      internalID: -990368943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 76
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79bf53b537edc5458588a705cc2f933
+      internalID: 16166245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 77
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650b601592d0dc43893b2e7544f0ead
+      internalID: -1733632595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac264e19df894c46a0cfd9819c166fe
+      internalID: 800664055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 14
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470002ae8264ed408458be8b91bfe47
+      internalID: -1415298269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686437269839c0e4ebc055ec05ca9946
+      internalID: 627796913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd7f66623afaa442b53fa991a341872
+      internalID: 1262659589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 9
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d60365cab25e8a47884e8987bd82efa
+      internalID: -176757147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 13
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28a8fee9b7de574fa7281fca68792e2
+      internalID: -889886374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 14
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea7c22c52bcfc4f84754c47a391bc2
+      internalID: 446617592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 25
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549b270bdc1be9439d694d526833272
+      internalID: 211490598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 24
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0eeefcdc8585943b2ed4ee77854390
+      internalID: 1647820736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83cac1804933f445ae34df71630d65d
+      internalID: 1461610622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 14
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228c193f1a6c9c428f9b1af6474652a
+      internalID: -425897238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 13
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f725a8aaaf294795098306c0e4390
+      internalID: -42258668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sodapdf-converted-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 13
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14467888187a3e64d881dbb6676bae55
+      internalID: -1389347861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sodapdf-converted-removebg-preview_91: -42258668
+      sodapdf-converted-removebg-preview_12: 1194557481
+      sodapdf-converted-removebg-preview_73: 698442482
+      sodapdf-converted-removebg-preview_67: 1800706706
+      sodapdf-converted-removebg-preview_90: -425897238
+      sodapdf-converted-removebg-preview_27: 2081101133
+      sodapdf-converted-removebg-preview_30: -1708711469
+      sodapdf-converted-removebg-preview_56: 1657266804
+      sodapdf-converted-removebg-preview_55: 495779511
+      sodapdf-converted-removebg-preview_7: 1015023882
+      sodapdf-converted-removebg-preview_1: -822623585
+      sodapdf-converted-removebg-preview_11: 868657314
+      sodapdf-converted-removebg-preview_40: 244095888
+      sodapdf-converted-removebg-preview_53: 628700571
+      sodapdf-converted-removebg-preview_48: 1374099716
+      sodapdf-converted-removebg-preview_68: 2052310814
+      sodapdf-converted-removebg-preview_38: -1592536789
+      sodapdf-converted-removebg-preview_28: 640089643
+      sodapdf-converted-removebg-preview_23: 1559514401
+      sodapdf-converted-removebg-preview_63: 1070680020
+      sodapdf-converted-removebg-preview_5: 593044214
+      sodapdf-converted-removebg-preview_8: 1279108615
+      sodapdf-converted-removebg-preview_52: -19018589
+      sodapdf-converted-removebg-preview_51: 649534948
+      sodapdf-converted-removebg-preview_6: 1115472262
+      sodapdf-converted-removebg-preview_77: -990368943
+      sodapdf-converted-removebg-preview_62: -821897471
+      sodapdf-converted-removebg-preview_24: 557618223
+      sodapdf-converted-removebg-preview_33: 1542529027
+      sodapdf-converted-removebg-preview_47: 1175953166
+      sodapdf-converted-removebg-preview_21: -876152735
+      sodapdf-converted-removebg-preview_82: 627796913
+      sodapdf-converted-removebg-preview_71: -1635771413
+      sodapdf-converted-removebg-preview_50: 1760722459
+      sodapdf-converted-removebg-preview_10: -1881141581
+      sodapdf-converted-removebg-preview_89: 1461610622
+      sodapdf-converted-removebg-preview_13: -1834293579
+      sodapdf-converted-removebg-preview_9: -7173762
+      sodapdf-converted-removebg-preview_54: 1916111699
+      sodapdf-converted-removebg-preview_65: -932983242
+      sodapdf-converted-removebg-preview_88: 1647820736
+      sodapdf-converted-removebg-preview_46: -1064178460
+      sodapdf-converted-removebg-preview_18: -352837931
+      sodapdf-converted-removebg-preview_37: -755664308
+      sodapdf-converted-removebg-preview_72: 1545674636
+      sodapdf-converted-removebg-preview_75: 154300886
+      sodapdf-converted-removebg-preview_84: -176757147
+      sodapdf-converted-removebg-preview_49: 1284726633
+      sodapdf-converted-removebg-preview_41: -203194159
+      sodapdf-converted-removebg-preview_87: 211490598
+      sodapdf-converted-removebg-preview_14: 2123576762
+      sodapdf-converted-removebg-preview_0: 1592381518
+      sodapdf-converted-removebg-preview_45: -291236541
+      sodapdf-converted-removebg-preview_70: 64876470
+      sodapdf-converted-removebg-preview_3: 1836423461
+      sodapdf-converted-removebg-preview_43: -782030690
+      sodapdf-converted-removebg-preview_79: -1733632595
+      sodapdf-converted-removebg-preview_20: -1277153953
+      sodapdf-converted-removebg-preview_36: 1960124039
+      sodapdf-converted-removebg-preview_74: -705743479
+      sodapdf-converted-removebg-preview_80: 800664055
+      sodapdf-converted-removebg-preview_15: -691459233
+      sodapdf-converted-removebg-preview_32: -1121296764
+      sodapdf-converted-removebg-preview_92: -1389347861
+      sodapdf-converted-removebg-preview_59: -916740457
+      sodapdf-converted-removebg-preview_35: -103104720
+      sodapdf-converted-removebg-preview_17: -331884205
+      sodapdf-converted-removebg-preview_26: -1809563447
+      sodapdf-converted-removebg-preview_22: 197112253
+      sodapdf-converted-removebg-preview_58: 1961121364
+      sodapdf-converted-removebg-preview_64: -267393740
+      sodapdf-converted-removebg-preview_83: 1262659589
+      sodapdf-converted-removebg-preview_78: 16166245
+      sodapdf-converted-removebg-preview_16: -581054914
+      sodapdf-converted-removebg-preview_85: -889886374
+      sodapdf-converted-removebg-preview_60: 1013585165
+      sodapdf-converted-removebg-preview_39: -1167331261
+      sodapdf-converted-removebg-preview_31: -122094143
+      sodapdf-converted-removebg-preview_86: 446617592
+      sodapdf-converted-removebg-preview_29: 1073640333
+      sodapdf-converted-removebg-preview_76: 914857696
+      sodapdf-converted-removebg-preview_19: 757702559
+      sodapdf-converted-removebg-preview_2: 601300399
+      sodapdf-converted-removebg-preview_57: 521733025
+      sodapdf-converted-removebg-preview_69: 103519520
+      sodapdf-converted-removebg-preview_81: -1415298269
+      sodapdf-converted-removebg-preview_44: -1256747988
+      sodapdf-converted-removebg-preview_61: -1820622356
+      sodapdf-converted-removebg-preview_34: 178006936
+      sodapdf-converted-removebg-preview_42: 613042190
+      sodapdf-converted-removebg-preview_66: -90839914
+      sodapdf-converted-removebg-preview_25: -91424350
+      sodapdf-converted-removebg-preview_4: 980707934
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

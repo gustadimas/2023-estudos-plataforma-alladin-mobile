@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 61222fcf3a0677245b386b335bd6b491
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 209
+        width: 99
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f990ca8ca5fa498aaec544df29aea
+      internalID: -851401103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 208
+        width: 102
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38463ffc16348469f76f6854722a67
+      internalID: -511808908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 205
+        width: 102
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb54c0dbd075ebc45a304e181122181d
+      internalID: 1204973110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 205
+        width: 101
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a299462e1eb145aee5c5a580b19e6
+      internalID: -617486753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 118
+        width: 123
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed34ba62b57ecc4585bd4427b8185f5
+      internalID: 87876487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 118
+        width: 121
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c4798b04257f4fb1a8fdd543222e2
+      internalID: 1347715701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 123
+        width: 101
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be894fc5c97e4e346ba95fc432932f43
+      internalID: -1190220210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 128
+        width: 101
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9132bbbf202c40449956c7c09d979ddd
+      internalID: 929903811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 128
+        width: 104
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea70baa0b903dcc4f9bab3f9d399c28c
+      internalID: -2085427133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 124
+        width: 105
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b4ad82d3ab30146b2001d1e988956e
+      internalID: 1956648986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 126
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108a65efc217eef478e35dc8109386f8
+      internalID: 920624419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66104d7f000d444ea9e50973c4f761e
+      internalID: -477553995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 16
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52217f5228d401040a1cba0313af6a19
+      internalID: 2734026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 19
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c9c659f0f45540846553707e0e756
+      internalID: 622099834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 15
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10090f2c70d3243a77899c6db9aa9a
+      internalID: 1655744561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6f3984a251444abea247658a9526d
+      internalID: -1155507458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 5
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b77e9cff830041a9b45e2216025ce
+      internalID: 1061658517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 17
+        width: 263
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b195eb1892cd8934d8bf8e8705f8955b
+      internalID: 142543751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_2: 1204973110
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_1: -511808908
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_11: -477553995
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_8: -2085427133
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_15: -1155507458
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_7: 929903811
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_3: -617486753
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_9: 1956648986
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_14: 1655744561
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_0: -851401103
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_5: 1347715701
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_12: 2734026
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_13: 622099834
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_4: 87876487
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_16: 1061658517
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_17: 142543751
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_10: 920624419
+      Genesis_32X_SCD_-_Aladdin_-_Magic_Carpet-removebg-preview-removebg-preview_6: -1190220210
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
